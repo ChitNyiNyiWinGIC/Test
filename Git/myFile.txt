@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello test
+=======
+Hello
+added by ccl
+>>>>>>> 6e67dfa0355ec566043fbb90a18bfcb53a5ecca5
